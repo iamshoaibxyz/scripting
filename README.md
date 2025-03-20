@@ -34,7 +34,7 @@ Make sure you have Bash installed on your system (most Linux distributions come 
 1. **Clone the repository:**
     ```bash
     git clone https://github.com/iamshoaibxyz/scripting.git
-    cd bash-scripting-collection
+    cd scripting
     ```
 
 2. **Navigate to the scripts directory:**
